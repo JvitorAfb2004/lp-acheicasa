@@ -1,0 +1,44 @@
+{
+  "name": "AcheiCasa.net - Plataforma Imobiliária com IA",
+  "short_name": "AcheiCasa",
+  "description": "Primeira plataforma imobiliária com rede de parceiros e inteligência artificial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff7a00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity", "real_estate"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/",
+  "shortcuts": [
+    {
+      "name": "Buscar Imóveis",
+      "short_name": "Buscar",
+      "description": "Encontre imóveis rapidamente",
+      "url": "/#recursos",
+      "icons": [{ "src": "/search-icon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Planos",
+      "short_name": "Planos",
+      "description": "Veja nossos planos e preços",
+      "url": "/#planos",
+      "icons": [{ "src": "/plans-icon.png", "sizes": "96x96" }]
+    }
+  ]
+}
