@@ -310,7 +310,7 @@ export default function AcheiCasaLanding() {
               <div className="relative w-full aspect-video rounded-lg overflow-hidden bg-gray-900 mx-1 sm:mx-0">
                 <iframe
                   className="w-full h-full"
-                  src="https://www.youtube.com/embed/kmDBmbc5-rE"
+                  src="https://www.youtube.com/embed/fAv7XMsGAy0"
                   title="AcheiCasa.NET - Vídeo Demonstrativo"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
